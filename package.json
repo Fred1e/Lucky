@@ -1,6 +1,6 @@
 {
-  "name": "zokou-2.0",
-  "version": "2.0.0",
+  "name": "Lucky_Md",
+  "version": "10.0.0",
   "description": "",
   "main": "index.js",
   "type": "commonjs",
@@ -14,13 +14,13 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Zokou",
+    "Lucky",
     "whatsapp",
     "whatsapp-bot",
-    "Fedora",
-    "FaouzKK"
+    "Fredi",
+    "Ezra"
   ],
-  "author": "Fedora && FaouzKK",
+  "author": "Fredi",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
